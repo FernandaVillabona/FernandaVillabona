@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=200&section=header&text=Manuela%20Fernanda%20Villabona&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrolladora%20Full%20Stack%20%7C%20Agentes%20de%20IA&descAlignY=56&descSize=18" width="100%" alt="Manuela Fernanda Villabona" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7597DE&center=true&vCenter=true&width=650&lines=Desarrolladora+Full+Stack;Angular+%C2%B7+React+%C2%B7+Tailwind+CSS;Node.js+%C2%B7+Java+%C2%B7+Python+%C2%B7+Microservicios;Agentes+de+IA+%C2%B7+MCP+%C2%B7+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7597DE&center=true&vCenter=true&width=650&lines=Desarrolladora+Full+Stack;Angular+%C2%B7+React+%C2%B7+Tailwind+CSS;Node.js+%C2%B7+Java+%C2%B7+Python+%C2%B7+Microservicios;Agentes+de+IA+%C2%B7+MCP+%C2%B7+APIs+REST" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/fernanda-villabona"><img src="https://img.shields.io/badge/LinkedIn-fernanda--villabona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Bogotá-Colombia-7597de?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia" />
@@ -16,7 +16,7 @@
 
 Soy **Desarrolladora Full Stack**, **Ingeniera Ambiental** de la Universidad El Bosque y **estudiante de Ingeniería de Sistemas**. Construyo aplicaciones web de punta a punta: frontend con **Angular, React y Tailwind CSS**, y backend con **Node.js, Java y Python**, diseñando **APIs REST y microservicios**.
 
-- 🤖 Trabajo con **IA / Machine Learning** y **agentes de IA**, incluyendo integraciones con **MCP (Model Context Protocol)**.
+- 🤖 Trabajo con **inteligencia artificial** y **agentes de IA**, incluyendo integraciones con **MCP (Model Context Protocol)**.
 - 🧩 Aplico componentización, programación reactiva (RxJS) y arquitectura por features.
 - 🧪 Me importa la calidad: pruebas con Jest, Supertest y Jasmine/Karma, y CI/CD con GitHub Actions.
 - ♿ Construyo interfaces responsive y accesibles (WCAG).
@@ -37,7 +37,7 @@ Soy **Desarrolladora Full Stack**, **Ingeniera Ambiental** de la Universidad El 
 |---|---|
 | **Frontend** | Angular, React, TypeScript, Tailwind CSS, RxJS, Angular Material, HTML5, SCSS, diseño responsive, accesibilidad (WCAG) |
 | **Backend** | Node.js, Express, Java, Python, APIs REST, microservicios, MongoDB (Mongoose), MySQL, autenticación JWT, validaciones (Joi) |
-| **IA** | IA / Machine Learning, agentes de IA, MCP (Model Context Protocol) |
+| **IA** | Agentes de IA, MCP (Model Context Protocol) |
 | **Pruebas** | Jest, Supertest, Jasmine/Karma, Postman |
 | **Herramientas** | Git, GitHub, GitFlow, GitHub Actions, Docker, Jira, Figma, Adobe XD |
 | **Metodologías** | Scrum, documentación técnica |
