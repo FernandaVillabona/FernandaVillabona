@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=200&section=header&text=Manuela%20Fernanda%20Villabona&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20(Angular)%20%26%20Backend%20(Node.js)%20Developer&descAlignY=56&descSize=18" width="100%" alt="Manuela Fernanda Villabona" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=200&section=header&text=Manuela%20Fernanda%20Villabona&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Angular%20%7C%20Backend%20Node.js&descAlignY=56&descSize=18" width="100%" alt="Manuela Fernanda Villabona" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7597DE&center=true&vCenter=true&width=600&lines=Desarrolladora+Frontend+con+Angular+%2B+TypeScript;APIs+REST+con+Node.js%2C+Express+y+MongoDB;Ingeniera+Ambiental+%7C+Estudiante+de+Ing.+de+Sistemas" alt="Typing SVG" />
 
