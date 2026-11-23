@@ -51,6 +51,40 @@ Soy **estudiante de Ingeniería de Sistemas** e **Ingeniera Ambiental** de la Un
 <tr>
 <td width="50%" valign="top">
 
+### 🐉 [WoW MountDex](https://github.com/FernandaVillabona/wow-mountdex)
+Enciclopedia y registro de colección de las 1.658 monturas de World of Warcraft, con estética de Pokédex clásica.
+
+- **Frontend:** Angular 19 con signals, lazy loading y diseño responsive y accesible.
+- **Backend:** Supabase (PostgreSQL, Auth y Row Level Security) y Edge Function para Battle.net.
+- **Datos reales:** importador propio desde tablas del cliente de WoW, Simple Armory y Rarity, con la fuente y la confianza de cada dato.
+
+[![Ver en vivo](https://img.shields.io/badge/Ver%20en%20vivo-wow--mountdex.vercel.app-c42b2b?style=for-the-badge&logo=vercel&logoColor=white)](https://wow-mountdex.vercel.app)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Enterprise AI Knowledge Assistant](https://github.com/FernandaVillabona/enterprise-ai-knowledge-assistant)
+Asistente empresarial con RAG: responde preguntas sobre los documentos de una empresa y cita la fuente (documento y página). *(En desarrollo)*
+
+- **API:** Python con FastAPI, autenticación JWT y roles.
+- **Búsqueda:** PostgreSQL + pgvector con búsqueda híbrida (vectorial + texto completo).
+- **IA:** OpenAI para chat y embeddings, con permisos por documento.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 [AndinaTrading · Módulo administrativo](https://github.com/FernandaVillabona/andinatrading-admin)
 Panel administrativo full stack de AndinaTrading.
 
